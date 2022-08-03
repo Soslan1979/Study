@@ -14,7 +14,7 @@ public class _Arrays {
             int j;
             for (j = 0; j < 4; j++)
                 numbers2[i][j] = i * 10;
-            System.out.println(numbers2[i][j]); //thswrtjsr
+            System.out.println(numbers2[i][j]); //thswrtjsr 777
         }
 
 
